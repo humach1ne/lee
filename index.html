@@ -4,29 +4,64 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Foremother Docs</title>
+  <meta name="description" content="Foremother documentation" />
+
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css/github-markdown.min.css">
-  <style>
-    body { margin: 0; padding: 40px 20px; background: #fff; }
-    .markdown-body { max-width: 900px; margin: 0 auto; box-sizing: border-box; }
-  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-  <article id="content" class="markdown-body">불러오는 중...</article>
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-inner">
+      <div class="brand">
+        <div class="brand-mark">F</div>
+        <div class="brand-text">
+          <div class="brand-title">Foremother</div>
+          <div class="brand-subtitle">Documentation</div>
+        </div>
+      </div>
 
-  <script>
-    fetch('./README.md')
-      .then((res) => {
-        if (!res.ok) throw new Error('README.md not found');
-        return res.text();
-      })
-      .then((md) => {
-        document.getElementById('content').innerHTML = marked.parse(md);
-      })
-      .catch((err) => {
-        document.getElementById('content').innerHTML =
-          '<h1>문서를 불러오지 못했습니다</h1><pre>' + err.message + '</pre>';
-      });
-  </script>
+      <nav id="menu" class="menu"></nav>
+    </div>
+  </aside>
+
+  <div class="overlay" id="overlay"></div>
+
+  <main class="main">
+    <header class="topbar">
+      <div class="topbar-left">
+        <button class="icon-btn menu-btn" id="menuBtn" aria-label="메뉴 열기">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M4 7h16M4 12h16M4 17h16" />
+          </svg>
+        </button>
+
+        <div class="page-meta">
+          <div class="page-kicker">Docs</div>
+          <div class="page-title" id="headerTitle">Home</div>
+        </div>
+      </div>
+
+      <div class="topbar-actions">
+        <button class="icon-btn theme-btn" id="themeToggle" aria-label="다크모드 전환">
+          <span class="theme-icon theme-icon-moon">🌙</span>
+          <span class="theme-icon theme-icon-sun">☀️</span>
+        </button>
+      </div>
+    </header>
+
+    <section class="content">
+      <div class="content-inner">
+        <article id="content" class="markdown-body">
+          <p class="empty-state">불러오는 중...</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <script src="./app.js"></script>
 </body>
 </html>
