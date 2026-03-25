@@ -11,4 +11,4 @@
 ## Naturalization
 
 * [결혼이민자의 국적취득](naturalization/undefined.md)
-* [혼인귀화 신청시 제출서류](naturalization/undefined-1.md)
+* [귀화허가 신청서의 서식 및 첨부서류](naturalization/undefined-1.md)
