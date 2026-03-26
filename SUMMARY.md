@@ -16,3 +16,7 @@
 * [혼인유지](naturalization/undefined-3.md)
 * [혼인단절](naturalization/undefined-4.md)
 * [3년 이상 거주](naturalization/3.md)
+* [간이귀화 안내](naturalization/undefined-5.md)
+* [혼인유지 간이귀화](naturalization/undefined-6.md)
+* [혼인단절 간이귀화](naturalization/undefined-7.md)
+* [3년 이상 거주 간이귀화](naturalization/3-1.md)
