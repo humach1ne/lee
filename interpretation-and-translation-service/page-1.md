@@ -1,3 +1,3 @@
 # Page 1
 
-{% embed url="https://tally.so/embed/jaLqA9?alignLeft=1&dynamicHeight=1&hideTitle=1&transparentBackground=1" %}
+{% embed url="https://tally.so/r/jaLqA9?formEventsForwarding=1&transparentBackground=1" %}
