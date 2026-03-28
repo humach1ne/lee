@@ -1,6 +1,7 @@
 ---
+hidden: true
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
@@ -12,9 +13,10 @@ layout:
   pagination:
     visible: true
   metadata:
-    visible: true
+    visible: false
   tags:
     visible: true
+metaLinks: {}
 ---
 
 # 결혼이민자의 국적취득
