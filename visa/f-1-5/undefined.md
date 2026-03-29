@@ -1,6 +1,6 @@
 ---
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
@@ -10,7 +10,7 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: false
+    visible: true
   metadata:
     visible: false
   tags:
@@ -19,6 +19,3 @@ layout:
 
 # 새 텍스트 문서
 
-<table><thead><tr><th width="631">구비서류</th><th>비고</th></tr></thead><tbody><tr><td>귀화허가 신청서 : 컬러사진 1매(3.5cm×4.5cm) 부착</td><td></td></tr><tr><td>여권사본 1부</td><td></td></tr><tr><td>본국 신분증(중국의 경우 거민증, 호구부) 사본 1부</td><td></td></tr><tr><td>본국 범죄경력증명서 (국적법 질의 응답 설명 자료 참고)</td><td></td></tr><tr><td>본인 또는 생계를 같이 하는 가족의 생계유지능력 입증 서류<br>- 3천만원 이상의 금융재산(예금ㆍ적금ㆍ증권 등) 증명 서류<br>- 공시가격 3천만원 이상 부동산 : 부동산등기사항증명서<br>- 3천만원 이상 임대차보증금 : 부동산임대차계약서<br>- 소득 : 재직증명서 또는 취업예정사실증명서</td><td>택1</td></tr><tr><td>가족관계통보서(대법원에 통보할 자필 통보서)<br>- 중국 : 외교부인증을 받은 친속관계공증서<br>- 그 외 국가 : 호적, 출생증명서<br>- 한국계 중국인(조선족) : 거민증, 호구부</td><td>가족관계등록부 창설 시 필요서류</td></tr></tbody></table>
-
-귀화요건 심사를 위해 위 제출서류 이외 추가서류 제출을 요구할 수 있음

@@ -1,6 +1,6 @@
 ---
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
@@ -10,7 +10,7 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
   metadata:
     visible: false
   tags:
@@ -45,7 +45,7 @@ layout:
 * 자녀를 포함하지 않으면 나중에 수반취득을 할 수 없습니다
 * 이 경우 자녀는 별도로 귀화 절차를 진행해야 합니다
 
-또한,
+만,
 
 * 부모가 이미 한국 국적을 취득한 경우\
   → 자녀는 특별귀화를 신청할 수 있습니다

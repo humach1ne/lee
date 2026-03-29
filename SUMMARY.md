@@ -20,4 +20,3 @@
 
 * [서비스안내](interpretation-and-translation-service/info.md)
 * [Page 1](interpretation-and-translation-service/page-1.md)
-* [서비스 신청하기](https://tally.so/r/LZ07ZJ)
