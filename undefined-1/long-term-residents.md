@@ -92,7 +92,7 @@ layout:
 
 <details>
 
-<summary>대한민국 국민의 양자로서 입양당시 대한민국의 민법에 의하여 성년이었던 자의 경우</summary>
+<summary><mark style="background-color:orange;">대한민국 국민의 <strong>양자로서 입양당시</strong> 대한민국의 민법에 의하여 <strong>성년이었던 자</strong>의 경우</mark></summary>
 
 * 입양사실이 기재된 양부 또는 양모의 가족관계증명서, 입양관계증명서 및 주민등록등본
 * 입양경위서 (양부가 작성,서명)
