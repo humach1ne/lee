@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+* [Xin chào](README.md)
 
 ## 통번역서비스 <a href="#interpretation-and-translation-service" id="interpretation-and-translation-service"></a>
 
