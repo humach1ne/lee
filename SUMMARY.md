@@ -5,12 +5,12 @@
 ## 통번역서비스 <a href="#interpretation-and-translation-service" id="interpretation-and-translation-service"></a>
 
 * [통번역서비스 안내](interpretation-and-translation-service/info.md)
-* [통번역서비스 신청서](interpretation-and-translation-service/request.md "통번역서비스 신청하기")
+* [통번역서비스 신청서](interpretation-and-translation-service/page-1.md "통번역서비스 신청하기")
 
 ## 가족초청
 
-* [방문동거](undefined/undefined.md)
-* [단기방문](undefined/undefined-1.md)
+* [방문동거](<undefined/undefined (1).md>)
+* [단기방문](<undefined/undefined-1 (1).md>)
 * [계절근로](undefined/undefined-2.md)
 
 ## 귀화 <a href="#naturalization" id="naturalization"></a>
@@ -21,7 +21,7 @@
 
 ***
 
-* [전 배우자와의 자녀의 국적취득](undefined-1/README.md "자녀의 국적취득")
-  * [수반취득](undefined-1/undefined.md)
-  * [특별귀화](undefined-1/undefined-1.md)
-  * [간이귀화(3년 이상 거주)](undefined-1/long-term-residents.md)
+* [전 배우자와의 자녀의 국적취득](undefined/page-2.md "자녀의 국적취득")
+  * [수반취득](undefined/undefined.md)
+  * [특별귀화](undefined/undefined-1.md)
+  * [간이귀화(3년 이상 거주)](undefined/long-term-residents.md)
