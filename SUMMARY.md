@@ -4,9 +4,9 @@
 
 ## 귀화 <a href="#naturalization" id="naturalization"></a>
 
-* [결혼이민자의 국적취득](naturalization/info/README.md "간이귀화")
-  * [간이귀화(혼인유지)](naturalization/info/ongoing-marriage.md "혼인유지")
-  * [간이귀화(혼인단절)](naturalization/info/marriage-terminated.md "혼인단절")
+* [결혼이민자의 국적취득](naturalization/info/README.md)
+  * [간이귀화(혼인유지)](naturalization/info/ongoing-marriage.md)
+  * [간이귀화(혼인단절)](naturalization/info/marriage-terminated.md)
 
 ## 자녀의 귀화
 
