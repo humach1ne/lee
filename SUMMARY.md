@@ -18,10 +18,7 @@
 * [결혼이민자의 국적취득](naturalization/info/README.md)
   * [간이귀화(혼인유지)](naturalization/info/ongoing-marriage.md)
   * [간이귀화(혼인단절)](naturalization/info/marriage-terminated.md)
-
-***
-
-* [전 배우자와의 자녀의 국적취득](undefined/page-2.md "자녀의 국적취득")
-  * [수반취득](undefined/undefined.md)
-  * [특별귀화](undefined/undefined-1.md)
-  * [간이귀화(3년 이상 거주)](undefined/long-term-residents.md)
+* [전 배우자와의 자녀의 국적취득](naturalization/undefined/README.md "자녀의 국적취득")
+  * [수반취득](naturalization/undefined/undefined.md)
+  * [특별귀화](naturalization/undefined/undefined-1.md)
+  * [간이귀화(3년 이상 거주)](naturalization/undefined/long-term-residents.md)
